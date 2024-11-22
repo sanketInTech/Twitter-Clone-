@@ -6,7 +6,7 @@ Future updates will include backend integration and real-time features.
 
 ## preview 
 
-![Screenshot of the Twitter Clone UI](images/clone Image.png)
+![Screenshot of the Twitter Clone UI](Twitter-Clone/clone Image.png)
 
 ## Features (Current Progress)
 - Realistic Twitter-like UI
